@@ -1,0 +1,34 @@
+_repo: Frank-Merriwell-s-Chase-Or-Exciting-Times-Afloat_63483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, Gilbert
+    - Patten, William G. (William Gilbert)
+    - Wilder, William W. (William West)
+    - Wilder, William West
+    - Patten, George William
+    - Patten, William Gilbert
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2020-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Merriwell, Frank (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Dime novels'
+- GITenberg
+title: Frank Merriwell's Chase; Or, Exciting Times Afloat
+url: http://www.gutenberg.org/ebooks/63483
